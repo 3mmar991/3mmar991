@@ -1,5 +1,5 @@
 //QUEUE.h
-#define QUEUE_SIZE  5
+#define QUEUE_SIZE  5 //choose the size of ur queue.
 #define NULL_P   0
 
 typedef enum
